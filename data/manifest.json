@@ -1,18 +1,18 @@
 {
- "asof": "2026-11-18T07:26:39.936118+00:00",
+ "asof": "2026-11-18T13:23:34.128019+00:00",
  "source": "https://www.deribit.com/api/v2/public/get_volatility_index_data",
  "series": {
   "ETH": {
    "rows": 1000,
    "first": "2024-02-23",
    "last": "2026-11-18",
-   "last_close": 57.69
+   "last_close": 58.39
   },
   "BTC": {
    "rows": 1000,
    "first": "2024-02-23",
    "last": "2026-11-18",
-   "last_close": 43.8
+   "last_close": 44.59
   }
  }
 }
